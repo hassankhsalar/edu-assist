@@ -3,7 +3,10 @@ import rp from "@/data/researchPapers.json";
 
 const ResearchPaper = () => {
   return (
-    <div className="w-11/12 mx-auto grid grid-cols-1 md:grid-cols-2 gap-3">
+    <div>
+      <h1 className="text-3xl font-bold text-center py-4 mb-6">Research Papers</h1>
+
+      <div className="w-11/12 mx-auto grid grid-cols-1 md:grid-cols-2 gap-3">
       {rp.map((rp, index) => (
         <div
           key={index}
@@ -29,6 +32,7 @@ const ResearchPaper = () => {
           </div>
         </div>
       ))}
+    </div>
     </div>
   );
 };

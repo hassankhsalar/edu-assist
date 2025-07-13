@@ -5,7 +5,7 @@ import graduates from "@/data/graduates.json";
 const Gallery = () => {
   return (
     <div className="w-11/12 mx-auto py-8">
-      <h2 className="text-2xl font-bold mb-4">College Image Gallery</h2>
+      <h2 className="text-3xl font-bold mb-4 text-center">College Image Gallery</h2>
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
         {graduates.map((graduates) => (
           <img
