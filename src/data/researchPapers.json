@@ -1,0 +1,38 @@
+[
+  {
+    "id": "rp1",
+    "researcherName": "Dr. Amina Faruq",
+    "topic": "AI in Healthcare Diagnostics",
+    "description": "This paper explores the role of artificial intelligence in early detection of chronic diseases through image-based diagnostics."
+  },
+  {
+    "id": "rp2",
+    "researcherName": "Tanvir Hasan",
+    "topic": "Renewable Energy Storage Solutions",
+    "description": "An in-depth study on optimizing battery storage systems for sustainable solar and wind energy usage in urban settings."
+  },
+  {
+    "id": "rp3",
+    "researcherName": "Mehzabin Jahan",
+    "topic": "Blockchain for Educational Credentials",
+    "description": "This research discusses how blockchain technology can be used to secure and verify academic certificates and degrees."
+  },
+  {
+    "id": "rp4",
+    "researcherName": "Sabbir Mahmud",
+    "topic": "Impact of Climate Change on Coastal Agriculture",
+    "description": "The study focuses on soil salinity increase in coastal areas and how adaptive agricultural practices can help mitigate losses."
+  },
+  {
+    "id": "rp5",
+    "researcherName": "Farzana Alam",
+    "topic": "Neural Interfaces and Brain-Computer Interaction",
+    "description": "Explores the latest advancements in brain-computer interfaces and their potential applications in neuroprosthetics."
+  },
+  {
+    "id": "rp6",
+    "researcherName": "Imran Karim",
+    "topic": "Cybersecurity in the IoT Era",
+    "description": "Analyzes vulnerabilities in smart home devices and proposes a multi-layered approach to secure IoT ecosystems."
+  }
+]

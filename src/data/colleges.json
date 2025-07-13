@@ -1,0 +1,242 @@
+[
+  {
+    "id": "c1",
+    "name": "Greenfield University",
+    "image": "https://i.ibb.co/DDv2szBL/url-http-npr-brightspot-s3-amazonaws-com-ad-63-aed9540946c29d043a1fe694206f-gcc-gazette.jpg",
+    "rating": 4.7,
+    "admissionDates": "2025-08-01 to 2025-09-10",
+    "researchCount": 120,
+    "events": [
+      "Science Fair 2025",
+      "Annual Cultural Fest",
+      "Startup Pitch Day"
+    ],
+    "sports": ["Football", "Basketball", "Cricket", "Badminton"],
+    "researchWorks": [
+      {
+        "title": "AI in Healthcare",
+        "link": "https://example.com/research/ai-healthcare"
+      },
+      {
+        "title": "Sustainable Architecture",
+        "link": "https://example.com/research/green-buildings"
+      }
+    ],
+    "admissionProcess": "Apply online → Submit documents → Entrance exam → Interview → Final admission",
+    "galleryImages": [
+      "/gallery/greenfield_1.jpg",
+      "/gallery/greenfield_2.jpg"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "c2",
+    "name": "Riverdale Institute of Technology",
+    "image": "https://i.ibb.co/7JzqVp6Q/University-of-Alabama-Engineering-Research-Center-01.jpg",
+    "rating": 4.5,
+    "admissionDates": "2025-07-15 to 2025-08-20",
+    "researchCount": 95,
+    "events": [
+      "Tech Symposium",
+      "Hackathon 2025",
+      "Alumni Meetup"
+    ],
+    "sports": ["Tennis", "Swimming", "Volleyball"],
+    "researchWorks": [
+      {
+        "title": "Blockchain in Education",
+        "link": "https://example.com/research/blockchain-edu"
+      },
+      {
+        "title": "Smart Farming Techniques",
+        "link": "https://example.com/research/smart-farming"
+      }
+    ],
+    "admissionProcess": "Online form → Verification → Entrance test → Counseling",
+    "galleryImages": [
+      "/gallery/riverdale_1.jpg",
+      "/gallery/riverdale_2.jpg"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "c3",
+    "name": "Sunshine College",
+    "image": "https://i.ibb.co/x8DvDDxd/james-madison-university.jpg",
+    "rating": 4.3,
+    "admissionDates": "2025-06-10 to 2025-07-25",
+    "researchCount": 80,
+    "events": [
+      "Art Exhibition",
+      "Innovation Expo",
+      "Coding Bootcamp"
+    ],
+    "sports": ["Track & Field", "Gymnastics", "Table Tennis"],
+    "researchWorks": [
+      {
+        "title": "Mental Health in Teens",
+        "link": "https://example.com/research/mental-health"
+      },
+      {
+        "title": "EdTech Advancements",
+        "link": "https://example.com/research/edtech"
+      }
+    ],
+    "admissionProcess": "Register → Upload documents → Entrance test → Offer letter",
+    "galleryImages": [
+      "/gallery/sunshine_1.jpg",
+      "/gallery/sunshine_2.jpg"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "c4",
+    "name": "Maple Leaf College",
+    "image": "https://i.ibb.co/0pgGmkHR/homepage-still3.jpg",
+    "rating": 4.9,
+    "admissionDates": "2025-09-01 to 2025-10-15",
+    "researchCount": 150,
+    "events": [
+      "AI Research Summit",
+      "Cultural Carnival",
+      "Business Plan Competition"
+    ],
+    "sports": ["Rugby", "Basketball", "Chess"],
+    "researchWorks": [
+      {
+        "title": "Robotics and Automation",
+        "link": "https://example.com/research/robotics"
+      },
+      {
+        "title": "Cybersecurity in IoT",
+        "link": "https://example.com/research/iot-security"
+      }
+    ],
+    "admissionProcess": "Step 1: Online application → Step 2: Aptitude Test → Step 3: Interview",
+    "galleryImages": [
+      "/gallery/mapleleaf_1.jpg",
+      "/gallery/mapleleaf_2.jpg"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "c5",
+    "name": "Oceanview Arts College",
+    "image": "https://i.ibb.co/Cp9fF6Mt/b224pb7h-1350360546.jpg",
+    "rating": 4.6,
+    "admissionDates": "2025-05-20 to 2025-07-01",
+    "researchCount": 70,
+    "events": [
+      "Drama Workshop",
+      "Photography Contest",
+      "Fine Arts Gala"
+    ],
+    "sports": ["Yoga", "Dance", "Archery"],
+    "researchWorks": [
+      {
+        "title": "Cultural Preservation through Digital Art",
+        "link": "https://example.com/research/digital-art"
+      },
+      {
+        "title": "Theatre in Modern Education",
+        "link": "https://example.com/research/theatre"
+      }
+    ],
+    "admissionProcess": "Portfolio review → Interview → Final Selection",
+    "galleryImages": [
+      "/gallery/oceanview_1.jpg",
+      "/gallery/oceanview_2.jpg"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "c6",
+    "name": "Everest Engineering Institute",
+    "image": "https://i.ibb.co/HDHJK9L5/images-q-tbn-ANd9-Gc-Ryj-H8-HEr-TAEto-Rx-Kd-Zn8r820q-ZVF9n-O-PFb-Q-s.jpg",
+    "rating": 4.4,
+    "admissionDates": "2025-07-05 to 2025-08-30",
+    "researchCount": 105,
+    "events": [
+      "Engineering Day",
+      "Drone Racing Event",
+      "Open Robotics Demo"
+    ],
+    "sports": ["Cricket", "Football", "Coding Tournaments"],
+    "researchWorks": [
+      {
+        "title": "Renewable Energy Grids",
+        "link": "https://example.com/research/renewable-grid"
+      },
+      {
+        "title": "Drone Mapping for Agriculture",
+        "link": "https://example.com/research/drone-mapping"
+      }
+    ],
+    "admissionProcess": "Online application → Entrance test → Result declaration",
+    "galleryImages": [
+      "/gallery/everest_1.jpg",
+      "/gallery/everest_2.jpg"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "c7",
+    "name": "Horizon Business School",
+    "image": "https://i.ibb.co/chgjv5Lh/DSC-3059-Web-Featured-Image-Row-706x492.jpg",
+    "rating": 4.8,
+    "admissionDates": "2025-06-15 to 2025-08-01",
+    "researchCount": 130,
+    "events": [
+      "Startup Weekend",
+      "Marketing Case Challenge",
+      "Leadership Summit"
+    ],
+    "sports": ["Basketball", "Debate Club", "Swimming"],
+    "researchWorks": [
+      {
+        "title": "Market Trends in E-Commerce",
+        "link": "https://example.com/research/ecommerce-trends"
+      },
+      {
+        "title": "Global Consumer Behavior",
+        "link": "https://example.com/research/consumer-behavior"
+      }
+    ],
+    "admissionProcess": "Apply online → Case study analysis → Personal Interview",
+    "galleryImages": [
+      "/gallery/horizon_1.jpg",
+      "/gallery/horizon_2.jpg"
+    ],
+    "reviews": []
+  },
+  {
+    "id": "c8",
+    "name": "Aurora Health Sciences University",
+    "image": "https://i.ibb.co/BH7vn2YR/images-q-tbn-ANd9-Gc-Sd-Hl-fi-K3-Wjg-Kye8-AB5-UIm-Y-fn-Y1r-Kq-Ztc0-A-s.jpg",
+    "rating": 4.6,
+    "admissionDates": "2025-05-01 to 2025-06-30",
+    "researchCount": 160,
+    "events": [
+      "Medical Research Expo",
+      "CPR & First Aid Training",
+      "Public Health Seminar"
+    ],
+    "sports": ["Volleyball", "Fitness Bootcamps", "Track"],
+    "researchWorks": [
+      {
+        "title": "Cancer Treatment Innovations",
+        "link": "https://example.com/research/cancer-treatment"
+      },
+      {
+        "title": "Public Health Policies Post-COVID",
+        "link": "https://example.com/research/post-covid"
+      }
+    ],
+    "admissionProcess": "Medical entrance → Counseling → Document verification → Final selection",
+    "galleryImages": [
+      "/gallery/aurora_1.jpg",
+      "/gallery/aurora_2.jpg"
+    ],
+    "reviews": []
+  }
+]
